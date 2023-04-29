@@ -31,7 +31,8 @@ SECRET_KEY = 'django-insecure-uv)t4@eo5vw)1(fqi=#&k*at!z^cupp%!3elze@1bf$jw=8!tm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-fatimamahate-hello-djang-tz53qlu30m.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-fatimamahate-hello-djang-tz53qlu30m.us2.codeanyapp.com',
+                 'django-todo-fatima.herokuapp.com']
 
 
 # Application definition
